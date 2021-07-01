@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = matthieu.assie@gmail.com
+	name = Matthieu Assie
